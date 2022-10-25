@@ -52,6 +52,7 @@ class mr(object):
 •> /viewthumb use this command view your current thumbnile.
 
 📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
+
 •> /set_caption - set a custom caption
 •> /see_caption - see your custom caption
 •> /del_caption - delete custom caption
@@ -61,7 +62,9 @@ Example:- /set_caption 📕 File Name: {filename}
 ⏰ Duration: {duration}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
+
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ Help Contact :- <a href=https://t.me/hellobikash77>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+
+ℹ️ Contact Dev:- <a href=https://t.me/hellobikash77>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
