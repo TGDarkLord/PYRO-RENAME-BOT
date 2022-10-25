@@ -40,8 +40,8 @@ async def doc(bot,update):
      	await ms.edit(e)
      	return 
      splitpath = path.split("/downloads/")
-     dow_file_name = splitpath[1]
-     old_file_name =f"downloads/{dow_file_name}"
+     old_filename = splitpath[1]
+     old_file_name = f"downloads/{old_filename}"
      os.rename(old_file_name,file_path)
      duration = 0
      try:
